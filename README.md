@@ -1,4 +1,5 @@
-<img width="1110" height="1044" alt="Screenshot 2025-10-28 at 1 54 23 PM" src="https://github.com/user-attachments/assets/810f68ed-aecd-44bc-9920-413a7bfc89c5" />
+<img width="900" height="847" alt="Screenshot 2025-10-28 at 1 54 23 PM" src="https://github.com/user-attachments/assets/3229b8b4-d513-4100-a411-e70997586942" />
+
 
 <sub> Screenshot from *The Moment Before Letting Go* </sub>
 
@@ -14,3 +15,7 @@ TouchDesigner
 
 ## Credits 
 TouchDesigner Projection designed by Noella 
+
+
+https://www.youtube.com/watch?v=WS2Ww6zYgJw
+
